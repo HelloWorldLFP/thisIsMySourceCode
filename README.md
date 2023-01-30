@@ -8,4 +8,4 @@
   <img height="32px" src="./assets/whatsapp.svg" alt="whatsapp"/>
 </a>
 
-<br/><p align="center" ><img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats" /></p>
+<br/><p align="center" ><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats" /></p>
