@@ -5,7 +5,6 @@
     <td>  
       <a href="https://www.linkedin.com/in/i♡programming">
         <img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>
-
       </a>
   </td>
     <td>  
