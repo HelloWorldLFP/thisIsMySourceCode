@@ -5,6 +5,7 @@
         .bg {     font-family: Georgia, Times, "Times New Roman", serif; 
                   text-rendering: optimizeLegibility;
                   text-align:center;
+                  cursor: default!important;
        }
        .divider{  height:2px;
                   width:120px;
@@ -18,7 +19,8 @@
                   font-variant: small-caps; 
                   font-weight: 400; 
                   margin: 6rem 0 0 0;
-                  color:#233;
+                 cursor: default!important;
+                 color:#233;
        }
       @media (    prefers-color-scheme: dark) {
        .divider { background:#899}
