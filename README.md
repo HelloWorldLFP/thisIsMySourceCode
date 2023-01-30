@@ -1,4 +1,4 @@
-![Luciano Pereira](./lucianopereira.svg)
+![Luciano Pereira](./assets/lucianopereira.svg)
 
 
 ### Hi there 👋
