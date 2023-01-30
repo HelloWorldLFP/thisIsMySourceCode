@@ -7,7 +7,7 @@
 <a href="https://cutt.ly/pereiraluciano"><img height="32px" src="./assets/whatsapp.svg" alt="whatsapp"/></a>
 </p>
 <details>
-  <summary><h2>Stats <i>(click to expand)</i></h2></summary>
+  <summary><h3>Stats <i>(click to expand)</i></h3></summary>
 <br/><p align="center"><img width="220px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" />
 </p>
 <p align="center">
