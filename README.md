@@ -1,6 +1,11 @@
 ![Luciano Pereira](./assets/lucianopereira.svg)
 
-![LinkedIn](./assets/linkedin.svg)
+
+<p align="center">
+![LinkedIn](./assets/linkedin.svg)  https://www.linkedin.com/in/i♡programming
+</p>
+
+
 
 
 ### Hi there 👋
