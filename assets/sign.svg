@@ -1,14 +1,14 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="390px" fill="none" height="88px" viewBox="0 0 3900 880" preserveAspectRatio="xMidYMid meet">
  <style>
   #layer101 {
-   fill: #000000
+   fill: #14191f
   }
   #layer102 {
    fill: #ffffff
   }
   @media ( prefers-color-scheme: dark) {
    #layer102 {
-    fill: #000000
+    fill: #14191f
    }
    #layer101 {
     fill: #ffffff
