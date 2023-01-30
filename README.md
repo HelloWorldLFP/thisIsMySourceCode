@@ -7,5 +7,4 @@
 </p>
 
 <br/><p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" /></p>
-<p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/apiusername=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="my stats commits" /></p>
-
+<p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&hide_border=true" /></p>
