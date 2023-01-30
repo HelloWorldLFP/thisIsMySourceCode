@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/i♡programming"><img height="32px" src="./assets/linkedin.svg" alt="LinkedIn"/></a>
-<a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profile"><img weight="32px" src="./assets/mail.svg" alt="mail"/></a>
+<a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img weight="32px" src="./assets/mail.svg" alt="mail"/></a>
 <a href="https://cutt.ly/pereiraluciano"><img height="32px" src="./assets/whatsapp.svg" alt="whatsapp"/></a>
 </p>
 <details>
