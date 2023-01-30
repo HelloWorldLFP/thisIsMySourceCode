@@ -1,10 +1,13 @@
 ![Luciano Pereira](./assets/lucianopereira.svg)
 
 
-<a href="https://www.linkedin.com/in/i♡programming"><img width="17px" height="17px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
+<a href="https://www.linkedin.com/in/i♡programming"><img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
 
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/i♡programming">
+    <img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
+</p>
 
 ### Hi there 👋
 
