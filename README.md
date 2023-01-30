@@ -1,10 +1,9 @@
 ![Luciano Pereira](./assets/lucianopereira.svg)
 
 
-<a href="https://www.linkedin.com/in/i♡programming"><img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/i♡programming">
     <img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
 </p>
