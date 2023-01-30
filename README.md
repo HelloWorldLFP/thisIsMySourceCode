@@ -1,3 +1,6 @@
+![Luciano Pereira](./lucianopereira.svg)
+
+
 ### Hi there 👋
 
 <!--
