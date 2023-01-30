@@ -1,5 +1,5 @@
 <p align="center">
-![Luciano Pereira](./assets/lucianopereira.svg)
+  <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
 </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/i♡programming"><img height="32px" src="./assets/linkedin.svg" alt="LinkedIn"/></a>&nbsp;
