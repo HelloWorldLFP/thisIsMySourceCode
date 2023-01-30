@@ -18,8 +18,12 @@
                   font-variant: small-caps; 
                   font-weight: 400; 
                   margin: 6rem 0 0 0;
-                 color:#344;
+                 color:#233;
        }
+      @media (    prefers-color-scheme: dark) {
+       .divider { background:#ede8dc}
+        h1      { color:#677}
+      }
       </style>
       <div class="bg">
         <h1>Luciano Pereira<span class="divider"></span></h1>
