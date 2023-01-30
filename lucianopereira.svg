@@ -17,7 +17,7 @@
                   font-style: normal; 
                   font-variant: small-caps; 
                   font-weight: 400; 
-                  margin: 6rem 0 9rem 0;
+                  margin: 6rem 0 4rem 0;
                   color:#233;
        }
       @media (    prefers-color-scheme: dark) {
