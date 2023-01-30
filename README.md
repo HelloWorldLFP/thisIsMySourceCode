@@ -6,8 +6,8 @@
 <a href="https://cutt.ly/pereiraluciano"><img height="32px" src="./assets/whatsapp.svg" alt="whatsapp"/></a>
 </p>
 
-<br/><p align="left"><img width="220px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" />
-
+<br/><p align="left"><img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" />
+</p>
+<p align="left">
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&hide_border=true" />
-
 </p>
