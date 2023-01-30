@@ -22,7 +22,7 @@
        }
       @media (    prefers-color-scheme: dark) {
        .divider { background:#ede8dc}
-        h1      { color:#677}
+        h1      { color:#9AA}
       }
       </style>
       <div class="bg">
