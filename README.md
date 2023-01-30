@@ -2,7 +2,7 @@
 
 
 <p align="center">
-![LinkedIn](./assets/linkedin.svg)  https://www.linkedin.com/in/i♡programming
+<img src="./assets/linkedin.svg" alt="LinkedIn"/>  https://www.linkedin.com/in/i♡programming
 </p>
 
 
