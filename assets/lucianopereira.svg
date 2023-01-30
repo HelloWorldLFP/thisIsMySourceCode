@@ -18,7 +18,7 @@
                   font-variant: small-caps; 
                   font-weight: 400; 
                   margin: 3rem 0 0 0;
-                 color:#233;
+                 color:#24292f;
        }
       @media (    prefers-color-scheme: dark) {
        .divider { background:#ada89c}
