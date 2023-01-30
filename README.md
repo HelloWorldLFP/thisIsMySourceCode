@@ -6,8 +6,6 @@
   <img height="32px" src="./assets/linkedin.svg" alt="LinkedIn"/>
 </a>
 
-  -
-  
 <a href="https://cutt.ly/pereiraluciano">
   <img height="32px" src="./assets/whatsapp.svg" alt="whatsapp"/>
 </a>
