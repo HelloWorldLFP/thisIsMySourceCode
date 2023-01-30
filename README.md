@@ -1,5 +1,7 @@
 ![Luciano Pereira](./assets/lucianopereira.svg)
 
+![LinkedIn](./assets/linkedin.svg)
+
 
 ### Hi there 👋
 
