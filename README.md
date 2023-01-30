@@ -3,7 +3,7 @@
 
 
 
-<p align="left">
+<p style="line-height:22px">
   <a href="https://www.linkedin.com/in/i♡programming">
     <img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>i♡programming</a>
 </p>
