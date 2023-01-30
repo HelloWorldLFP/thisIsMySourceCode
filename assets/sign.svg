@@ -1,18 +1,18 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="390px" fill="none" height="88px" viewBox="0 0 3900 880" preserveAspectRatio="xMidYMid meet">
  <style>
-  .layer101 {
+  #layer101 {
    fill: #24292f
   }
-  .layer102 {
+  #layer102 {
    fill: #ffffff
   }
   @media ( prefers-color-scheme: dark) {
-   .layer102 {
+   #layer102 {
     fill: #24292f
    }
-  .layer101 {
-   fill: #ffffff
-  }
+   #layer101 {
+    fill: #ffffff
+   }
  }
  </style>
  <g id="layer101" stroke="none">
