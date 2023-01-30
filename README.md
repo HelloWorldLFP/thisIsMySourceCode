@@ -1,20 +1,8 @@
 ![Luciano Pereira](./assets/lucianopereira.svg)
 
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>  
-      <a href="https://www.linkedin.com/in/i♡programming">
-        <img width="22px" src="./assets/linkedin.svg" alt="LinkedIn"/>
-      </a>
-  </td>
-    <td>  
-      <a href="https://www.linkedin.com/in/i♡programming">
-        i♡programming
-      </a>
-  </td>
-  </tr>
-</table>
-
+<a href="https://www.linkedin.com/in/i♡programming">
+  <img width="32px" src="./assets/linkedin.svg" alt="LinkedIn"/>
+</a>
 
 
 ### Hi there 👋
