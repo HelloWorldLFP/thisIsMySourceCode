@@ -19,7 +19,7 @@
    }
    @media (min-width: 544px) { 
      #layer102 {
-      fill: #0d1117
+      fill: #0d1117!important
      }
    }
  }
