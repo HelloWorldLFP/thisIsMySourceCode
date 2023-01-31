@@ -1,16 +1,19 @@
 <p align="center">
+<a href="https://thisismysourcecode.github.io/lucianopereira">
 <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
+</a>
 </p>
 <p align="center">
+<a href="https://thisismysourcecode.github.io/lucianopereira">
 <img src="./assets/sign.svg" width="250px" alt="Luciano Pereira Sign Logo"/>
+</a>
 </p>
 <p align="center">
+<a href="https://thisismysourcecode.github.io/lucianopereira">
 <img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
+</a>
 </p>
-
-
 <br/>
-
 <p align="center">
   <a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/>
   </a>
