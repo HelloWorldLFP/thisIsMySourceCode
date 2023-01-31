@@ -25,8 +25,8 @@
   
 <p align="center">
 <a href="#"><img width="32px" src="./assets/icons/apache.svg" alt=""/></a>
-&nbsp;&nbsp;<a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
-&nbsp;&nbsp;<a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/bash.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/behance.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/bitbucket.svg" alt=""/></a>
