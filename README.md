@@ -2,11 +2,14 @@
 <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
 </p>
 <p align="center">
-<img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
+<img src="./assets/sign.svg" width="200px" alt="Luciano Pereira Sign Logo"/>
 </p>
 <p align="center">
-<img src="./assets/sign.svg" width="200px" alt="Luciano Pereira Sign Logo"/>
-</p><br/>
+<img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
+</p>
+
+
+<br/>
 
 <p align="center">
   <a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/>
