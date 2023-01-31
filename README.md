@@ -23,7 +23,7 @@
   
 &nbsp;
   
-<p align="center">      <a href="#"><img  width="42px" src="./assets/icons/apache.svg" alt=""/></a>
+<p align="center">      <a href="#"><img height="42px" src="./assets/icons/apache.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/apple.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/arduino.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bash.svg" alt=""/></a>
