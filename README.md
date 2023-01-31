@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="./assets/resume.svg" height=¨100px¨ alt="Luciano Pereira Resume"/>
+<img src="./assets/resume.svg" height="100px" alt="Luciano Pereira Resume"/>
 </p><br/>
 
 
