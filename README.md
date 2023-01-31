@@ -1,6 +1,6 @@
 <p align="center">
-<img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
-<img src="./assets/sign.svg" alt="Luciano Pereira Sign Logo"/>
+<img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/><br/>
+<img src="./assets/sign.svg" alt="Luciano Pereira Sign Logo"/><br/>
 </p>
 
 <p align="center">
