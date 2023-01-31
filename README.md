@@ -20,6 +20,13 @@
 
 <details>
   <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |  
+  
 <p align="center">
 <a href="#"><img width="32px" src="./assets/icons/apache.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
