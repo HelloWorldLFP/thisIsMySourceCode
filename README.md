@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://thisismysourcecode.github.io/lucianopereira">
     <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
+  </a>
+    </p>
+<p align="center">
+<a href="https://thisismysourcecode.github.io/lucianopereira">
     <img src="./assets/sign.svg" width="250px" alt="Luciano Pereira Sign Logo"/><br/>
     <img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
   </a>
