@@ -20,6 +20,7 @@
 
 <details>
   <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
+<p align="center">
 <a href="#"><img height="32px" src="./assets/icons/apache.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>
@@ -107,4 +108,5 @@
 <a href="#"><img height="32px" src="./assets/icons/wordpress.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/yii.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/zend.svg" alt=""/></a>
+</p>
 </details>
