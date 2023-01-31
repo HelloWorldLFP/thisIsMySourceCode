@@ -12,12 +12,12 @@
                   display:block;
                   margin-top:7px;
                   background: #cdc8bc;
-       } h1 {     font-size: 4rem;
-                  line-height: 4rem; 
+       } h1 {     font-size: 3rem;
+                  line-height: 3rem; 
                   font-style: normal; 
                   font-variant: small-caps; 
                   font-weight: 400; 
-                  margin: 3rem 0 0 0;
+                  margin: 1rem 0 0 0;
                  color:#24292f;
        }
       @media (    prefers-color-scheme: dark) {
