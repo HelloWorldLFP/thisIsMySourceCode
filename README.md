@@ -56,8 +56,8 @@
 </p><p align="center">  <a href="https://gohugo.io/"><img height="42px" src="./assets/icons/hugo.svg"         alt="hugo"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/ar/products/illustrator.html"><img height="42px" src="./assets/icons/illustrator.svg"  alt="illustrator"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://inkscape.org/es/"><img height="42px" src="./assets/icons/inkscape.svg"     alt="inkscape"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/javascript.svg"   alt="javascript"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jest.svg"         alt="jest"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img height="42px" src="./assets/icons/javascript.svg"   alt="javascript"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jestjs.io/"><img height="42px" src="./assets/icons/jest.svg"         alt="jest"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jira.svg"         alt="jira"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jquery.svg"       alt="jquery"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jupyter.svg"      alt="jupyter"/></a>
