@@ -21,31 +21,12 @@
 <details>
   <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
   
-  
-<table class="images" width="100%"  style="border:0px;width:100%">
-    <tr style="border:0px">
-        <td width="33%" style="border:0px; width:33.33%">
-1
-      </td>
-        <td width="33%" style="border:0px; width:33.33%">
- 2
-      </td>
-        <td width="33%" style="border:0px; width:33.33%">
-  3
-      </td>
-    </tr>
-</table>  
-  
-| <a href="#"><img width="32px" src="./assets/icons/apache.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/bash.svg" alt=""/></a>  |
-| :-----------: |:---------------:| :----: | :----: |
-| 1 | 2 | 3 | 5 |
-| 1 | 2 | 3 | 5 |
-| 1 | 2 | 4 | 5 |  
+&nbsp;
   
 <p align="center">
 <a href="#"><img width="32px" src="./assets/icons/apache.svg" alt=""/></a>
-<a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
-<a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>
+&nbsp;<a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>
+&nbsp;<a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/bash.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/behance.svg" alt=""/></a>
 <a href="#"><img height="32px" src="./assets/icons/bitbucket.svg" alt=""/></a>
