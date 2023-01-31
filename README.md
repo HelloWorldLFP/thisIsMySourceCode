@@ -19,6 +19,8 @@
 🧑🏽‍💻 https://github.com/thisIsMySourceCode/ladionisia-eshop-nextjs
 
 
+<img src="./showcase/dionisia1.png" alt="screnshot website La Dionisia"/>
+
 <details open>
   <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>&nbsp;
 <p align="center">      <a href="https://apache.org/">                      <img height="42px" src="./assets/icons/apache.svg"    alt="Apache"/></a>
