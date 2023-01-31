@@ -5,7 +5,7 @@
         <path d="M308,6C308,2.689 305.311,0 302,0L6,0C2.689,0 0,2.689 0,6L0,341C0,344.311 2.689,347 6,347L302,347C305.311,347 308,344.311 308,341L308,6Z" style="fill:white;"/>
     </g>
     <g transform="matrix(1,0,0,1,124,11)">
-        <path d="M6,0L302,0C305.292,0 308,2.708 308,6L308,32L0,32L0,6C0,2.708 2.708,0 6,0Z" style="fill:rgb(150,146,137);fill-opacity:0.4;fill-rule:nonzero;"/>
+        <path d="M6,0L302,0C305.292,0 308,2.708 308,6L308,32L0,32L0,6C0,2.708 2.708,0 6,0Z" style="fill:rgb(150,146,137);fill-rule:nonzero;"/>
     </g>
     <g transform="matrix(1,0,0,1,124,43)">
         <path d="M0,0L62,0L62,315L6,315C2.708,315 0,312.292 0,309L0,0Z" style="fill:rgb(0,146,203);fill-opacity:0.12;fill-rule:nonzero;"/>
@@ -20,10 +20,10 @@
         <rect x="0" y="0" width="88" height="9" style="fill:rgb(179,189,192);"/>
     </g>
     <g transform="matrix(1,0,0,1,254,145)">
-        <rect x="0" y="0" width="159" height="12" style="fill:rgb(188,183,171);fill-opacity:0.54;"/>
+        <rect x="0" y="0" width="159" height="12" style="fill:rgb(188,183,171);fill-opacity:0.91;"/>
     </g>
     <g transform="matrix(1,0,0,1,254,271)">
-        <rect x="0" y="0" width="159" height="12" style="fill:rgb(188,183,171);fill-opacity:0.54;"/>
+        <rect x="0" y="0" width="159" height="12" style="fill:rgb(188,183,171);fill-opacity:0.91;"/>
     </g>
     <g transform="matrix(1,0,0,1,254.5,213.5)">
         <path d="M0,0L159,0" style="fill:none;fill-rule:nonzero;stroke:rgb(179,189,192);stroke-width:2px;"/>
