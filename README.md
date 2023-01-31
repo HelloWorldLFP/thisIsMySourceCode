@@ -19,7 +19,7 @@
 🧑🏽‍💻 https://github.com/thisIsMySourceCode/ladionisia-eshop-nextjs
 
 
-<img src="./showcase/ladionisia1.png" alt="screnshot website La Dionisia"/>
+<img src="./showcase/dionisia1.png" alt="screnshot website La Dionisia"/>
 
 <details open>
   <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>&nbsp;
