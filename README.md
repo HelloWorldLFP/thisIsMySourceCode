@@ -20,8 +20,8 @@
 </p>
 </details>
 
-<details>
-  <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
+<details open>
+  <summary><h3>Technologies <i>click to (un)fold</i></h3></summary><br/>
   
 &nbsp;
   
