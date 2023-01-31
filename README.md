@@ -23,17 +23,17 @@
   
 &nbsp;
   
-<p align="center">      <a href="#"><img height="42px" src="./assets/icons/apache.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/apple.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/arduino.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bash.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/behance.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bitbucket.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bootstrap.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/c.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cakephp.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cmake.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/codeigniter.svg" alt=""/></a>
+<p align="center">      <a href="#"><img height="42px" width="42px" src="./assets/icons/apache.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/apple.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/arduino.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/bash.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/behance.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/bitbucket.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/bootstrap.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/c.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/cakephp.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/cmake.svg" alt=""/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" width="42px" src="./assets/icons/codeigniter.svg" alt=""/></a>
 </p><p align="center">  <a href="#"><img height="42px" src="./assets/icons/coffeescript.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/css3.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/debian.svg" alt=""/></a>
