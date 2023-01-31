@@ -34,8 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cakephp.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cmake.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/codeigniter.svg" alt=""/></a>
-  </p>
-<p align="center">  <a href="#"><img height="42px" src="./assets/icons/coffeescript.svg" alt=""/></a>
+</p><p align="center">  <a href="#"><img height="42px" src="./assets/icons/coffeescript.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/css3.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/debian.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/denojs.svg" alt=""/></a>
@@ -45,7 +44,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/eslint.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/express.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/fedora.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/figma.svg" alt=""/></a>
+</p><p align="center">  <a href="#"><img height="42px" src="./assets/icons/figma.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/filezilla.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/firebase.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/gimp.svg" alt=""/></a>
