@@ -4,6 +4,13 @@
 <p align="center">
 <img src="./assets/sign.svg" alt="Luciano Pereira Sign Logo"/>
 </p><br/>
+
+
+<p align="center">
+<img src="./assets/resume.svg" alt="Luciano Pereira Resume"/>
+</p><br/>
+
+
 <p align="center">
   <a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/>
   </a>
