@@ -58,22 +58,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://inkscape.org/es/"><img height="42px" src="./assets/icons/inkscape.svg"     alt="inkscape"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img height="42px" src="./assets/icons/javascript.svg"   alt="javascript"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jestjs.io/"><img height="42px" src="./assets/icons/jest.svg"         alt="jest"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jira.svg"         alt="jira"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jquery.svg"       alt="jquery"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jupyter.svg"      alt="jupyter"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/laravel.svg"      alt="laravel"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/latex.svg"        alt="latex"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/less.svg"         alt="less"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/linux.svg"        alt="linux"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/lua.svg"          alt="lua"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/magento.svg"      alt="magento"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/markdown.svg"     alt="markdown"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/materialui.svg"   alt="materialui"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/mongodb.svg"      alt="mongodb"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/moodle.svg"       alt="moodle"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/msdos.svg"        alt="msdos"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/mysql.svg"        alt="mysql"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/nextjs.svg"       alt="nextjs"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.atlassian.com/es/software/jira"><img height="42px" src="./assets/icons/jira.svg"         alt="jira"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jquery.com/"><img height="42px" src="./assets/icons/jquery.svg"       alt="jquery"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jupyter.org/"><img height="42px" src="./assets/icons/jupyter.svg"      alt="jupyter"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://laravel.com/"><img height="42px" src="./assets/icons/laravel.svg"      alt="laravel"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.latex-project.org/"><img height="42px" src="./assets/icons/latex.svg"        alt="latex"/></a>
+</p><p align="center">  <a href="https://lesscss.org/"><img height="42px" src="./assets/icons/less.svg"         alt="less"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linuxfoundation.org/"><img height="42px" src="./assets/icons/linux.svg"        alt="linux"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.lua.org/"><img height="42px" src="./assets/icons/lua.svg"          alt="lua"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://about.magento.com/Magento-Commerce.html"><img height="42px" src="./assets/icons/magento.svg"      alt="magento"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://daringfireball.net/projects/markdown/"><img height="42px" src="./assets/icons/markdown.svg"     alt="markdown"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mui.com/material-ui/"><img height="42px" src="./assets/icons/materialui.svg"   alt="materialui"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mongodb.com/"><img height="42px" src="./assets/icons/mongodb.svg"      alt="mongodb"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://moodle.org/"><img height="42px" src="./assets/icons/moodle.svg"       alt="moodle"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://freedos.org/"><img height="42px" src="./assets/icons/msdos.svg"        alt="msdos"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/"><img height="42px" src="./assets/icons/mysql.svg"        alt="mysql"/></a>
+</p><p align="center">  <a href="https://nextjs.org/"><img height="42px" src="./assets/icons/nextjs.svg"       alt="nextjs"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/nginx.svg"        alt="nginx"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/nodejs.svg"       alt="nodejs"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/npm.svg"          alt="npm"/></a>
