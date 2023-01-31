@@ -74,38 +74,38 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://freedos.org/"><img height="42px" src="./assets/icons/msdos.svg"        alt="msdos"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/"><img height="42px" src="./assets/icons/mysql.svg"        alt="mysql"/></a>
 </p><p align="center">  <a href="https://nextjs.org/"><img height="42px" src="./assets/icons/nextjs.svg"       alt="nextjs"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/nginx.svg"        alt="nginx"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/nodejs.svg"       alt="nodejs"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/npm.svg"          alt="npm"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/numpy.svg"        alt="numpy"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/nuxtjs.svg"       alt="nuxtjs"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/pandas.svg"       alt="pandas"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/perl.svg"         alt="perl"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/photoshop.svg"    alt="photoshop"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/php.svg"          alt="php"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/postgresql.svg"   alt="postgresql"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/python.svg"       alt="python"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/raspberrypi.svg"  alt="raspberry pi"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/react.svg"        alt="react"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/redux.svg"        alt="redux"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/sequelize.svg"    alt="sequelize"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/sketch.svg"       alt="sketch"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/slack.svg"        alt="slack"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/spss.svg"         alt="spss"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/sqlite.svg"       alt="sqlite"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/subversion.svg"   alt="subversion"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/svelte.svg"       alt="svelte"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/symfony.svg"      alt="symphony"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/tailwindcss.svg"  alt="tailwindcss"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/trello.svg"       alt="trello"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/typescript.svg"   alt="typescript"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/vim.svg"          alt="vim"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/visualstudio.svg" alt="visualstudio"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/vscode.svg"       alt="vscode"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/vuejs.svg"        alt="vuejs"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/webpack.svg"      alt="webpack"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/woocommerce.svg"  alt="woocommerce"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/wordpress.svg"    alt="wordpress"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/yii.svg"          alt="yii"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/zend.svg"         alt="zend"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nginx.org/en/"><img height="42px" src="./assets/icons/nginx.svg"        alt="nginx"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org/en/"><img height="42px" src="./assets/icons/nodejs.svg"       alt="nodejs"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.npmjs.com/"><img height="42px" src="./assets/icons/npm.svg"          alt="npm"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img height="42px" src="./assets/icons/numpy.svg"        alt="numpy"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nuxtjs.org/"><img height="42px" src="./assets/icons/nuxtjs.svg"       alt="nuxtjs"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pandafw.github.io/panda/index_en.html"><img height="42px" src="./assets/icons/pandas.svg"       alt="pandas"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.perl.org/"><img height="42px" src="./assets/icons/perl.svg"         alt="perl"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/la/products/photoshop.html"><img height="42px" src="./assets/icons/photoshop.svg"    alt="photoshop"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.php.net/"><img height="42px" src="./assets/icons/php.svg"          alt="php"/></a>
+</p><p align="center">  <a href="https://www.postgresql.org/"><img height="42px" src="./assets/icons/postgresql.svg"   alt="postgresql"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img height="42px" src="./assets/icons/python.svg"       alt="python"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.raspberrypi.com/"><img height="42px" src="./assets/icons/raspberrypi.svg"  alt="raspberry pi"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/"><img height="42px" src="./assets/icons/react.svg"        alt="react"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://redux.js.org/"><img height="42px" src="./assets/icons/redux.svg"        alt="redux"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sequelize.org/"><img height="42px" src="./assets/icons/sequelize.svg"    alt="sequelize"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sketch.com/"><img height="42px" src="./assets/icons/sketch.svg"       alt="sketch"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://slack.com"><img height="42px" src="./assets/icons/slack.svg"        alt="slack"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ibm.com/spss"><img height="42px" src="./assets/icons/spss.svg"         alt="spss"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlite.org/index.html"><img height="42px" src="./assets/icons/sqlite.svg"       alt="sqlite"/></a>
+</p><p align="center">  <a href="https://subversion.apache.org/"><img height="42px" src="./assets/icons/subversion.svg"   alt="subversion"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://svelte.dev/"><img height="42px" src="./assets/icons/svelte.svg"       alt="svelte"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://symfony.com/"><img height="42px" src="./assets/icons/symfony.svg"      alt="symphony"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tailwindcss.com/"><img height="42px" src="./assets/icons/tailwindcss.svg"  alt="tailwindcss"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trello.com/"><img height="42px" src="./assets/icons/trello.svg"       alt="trello"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/"><img height="42px" src="./assets/icons/typescript.svg"   alt="typescript"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.vim.org"><img height="42px" src="./assets/icons/vim.svg"          alt="vim"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/"><img height="42px" src="./assets/icons/visualstudio.svg" alt="visualstudio"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img height="42px" src="./assets/icons/vscode.svg"       alt="vscode"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vuejs.org/"><img height="42px" src="./assets/icons/vuejs.svg"        alt="vuejs"/></a>
+</p><p align="center">  <a href="https://webpack.js.org/"><img height="42px" src="./assets/icons/webpack.svg"      alt="webpack"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://woocommerce.com/"><img height="42px" src="./assets/icons/woocommerce.svg"  alt="woocommerce"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wordpress.org/"><img height="42px" src="./assets/icons/wordpress.svg"    alt="wordpress"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.yiiframework.com/"><img height="42px" src="./assets/icons/yii.svg"          alt="yii"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://framework.zend.com/"><img height="42px" src="./assets/icons/zend.svg"         alt="zend"/></a>
 </p></details>
