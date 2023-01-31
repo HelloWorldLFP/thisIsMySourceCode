@@ -2,12 +2,12 @@
  <style>
   #layer101 {
    fill: #24292f;
-    stroke: rgb(255,255,255);
+    stroke: #ffffff;
     stroke-width: 0;
   }
   #layer102 {
    fill: #ffffff;
-    stroke: rgb(255,255,255);
+    stroke: #24292f;
     stroke-width: 0;
   }
   @media ( prefers-color-scheme: dark) {
