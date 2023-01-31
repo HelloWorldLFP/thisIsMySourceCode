@@ -23,39 +23,39 @@
   
 &nbsp;
   
-<p align="center">      <a href="https://apache.org/">                <img height="42px" src="./assets/icons/apache.svg"    alt="Apache"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apple.com">                  <img height="42px" src="./assets/icons/apple.svg"     alt="Apple"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/">            <img height="42px" src="./assets/icons/arduino.svg"   alt="Arduino"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/"> <img height="42px" src="./assets/icons/bash.svg"      alt="bash"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org">              <img height="42px" src="./assets/icons/bitbucket.svg" alt="Bitbucket"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com/">          <img height="42px" src="./assets/icons/bootstrap.svg" alt="bootstrap"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/c.svg"            alt="c language"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/cakephp.svg"      alt="cake php"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/cmake.svg"        alt="c make"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/codeigniter.svg"  alt="code igniter"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/coffeescript.svg" alt="coffee script"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/css3.svg"         alt="css3"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/debian.svg"       alt="debian"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/denojs.svg"       alt="denojs"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/django.svg"       alt="django"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/docker.svg"       alt="docker"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/drupal.svg"       alt="drupal"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/eslint.svg"       alt="eslint"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/express.svg"      alt="express"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/fedora.svg"       alt="fedora"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/figma.svg"        alt="figma"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/filezilla.svg"    alt="filezilla"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/firebase.svg"     alt="firbase"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/gimp.svg"         alt="gimp"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/git.svg"          alt="git"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/github.svg"       alt="github"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/gitlab.svg"       alt="gitlab"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/graphql.svg"      alt="graphsql"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/handlebars.svg"   alt="handlebars"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/html5.svg"        alt="html5"/></a>
-</p><p align="center">  <a href=""><img height="42px" src="./assets/icons/hugo.svg"         alt="hugo"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/illustrator.svg"  alt="illustrator"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/inkscape.svg"     alt="inkscape"/></a>
+<p align="center">      <a href="https://apache.org/">                      <img height="42px" src="./assets/icons/apache.svg"    alt="Apache"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apple.com">                        <img height="42px" src="./assets/icons/apple.svg"     alt="Apple"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/">                  <img height="42px" src="./assets/icons/arduino.svg"   alt="Arduino"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/">       <img height="42px" src="./assets/icons/bash.svg"      alt="bash"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org">                    <img height="42px" src="./assets/icons/bitbucket.svg" alt="Bitbucket"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com/">                <img height="42px" src="./assets/icons/bootstrap.svg" alt="bootstrap"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.open-std.org/jtc1/sc22/wg14/"> <img height="42px" src="./assets/icons/c.svg"         alt="c language"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cakephp.org/">                     <img height="42px" src="./assets/icons/cakephp.svg"   alt="cake php"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cmake.org/">                       <img height="42px" src="./assets/icons/cmake.svg"     alt="c make"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeigniter.com/"><img height="42px" src="./assets/icons/codeigniter.svg"  alt="code igniter"/></a>
+</p><p align="center">  <a href="https://coffeescript.org/"><img height="42px" src="./assets/icons/coffeescript.svg" alt="coffee script"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/"><img height="42px" src="./assets/icons/css3.svg"         alt="css3"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.debian.org/"><img height="42px" src="./assets/icons/debian.svg"       alt="debian"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://deno.land/"><img height="42px" src="./assets/icons/denojs.svg"       alt="denojs"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.djangoproject.com/"><img height="42px" src="./assets/icons/django.svg"       alt="django"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img height="42px" src="./assets/icons/docker.svg"       alt="docker"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.drupal.org/"><img height="42px" src="./assets/icons/drupal.svg"       alt="drupal"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eslint.org/"><img height="42px" src="./assets/icons/eslint.svg"       alt="eslint"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expressjs.com/"><img height="42px" src="./assets/icons/express.svg"      alt="express"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getfedora.org/es/"><img height="42px" src="./assets/icons/fedora.svg"       alt="fedora"/></a>
+</p><p align="center">  <a href="https://www.figma.com/"><img height="42px" src="./assets/icons/figma.svg"        alt="figma"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://filezilla-project.org/"><img height="42px" src="./assets/icons/filezilla.svg"    alt="filezilla"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://firebase.google.com/?hl=es"><img height="42px" src="./assets/icons/firebase.svg"     alt="firbase"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gimp.org/"><img height="42px" src="./assets/icons/gimp.svg"         alt="gimp"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/"><img height="42px" src="./assets/icons/git.svg"          alt="git"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/thisIsMySourceCode"><img height="42px" src="./assets/icons/github.svg"       alt="github"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://about.gitlab.com/"><img height="42px" src="./assets/icons/gitlab.svg"       alt="gitlab"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://graphql.org/"><img height="42px" src="./assets/icons/graphql.svg"      alt="graphsql"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://handlebarsjs.com/"><img height="42px" src="./assets/icons/handlebars.svg"   alt="handlebars"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://html.spec.whatwg.org/"><img height="42px" src="./assets/icons/html5.svg"        alt="html5"/></a>
+</p><p align="center">  <a href="https://gohugo.io/"><img height="42px" src="./assets/icons/hugo.svg"         alt="hugo"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/ar/products/illustrator.html"><img height="42px" src="./assets/icons/illustrator.svg"  alt="illustrator"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://inkscape.org/es/"><img height="42px" src="./assets/icons/inkscape.svg"     alt="inkscape"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/javascript.svg"   alt="javascript"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jest.svg"         alt="jest"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height="42px" src="./assets/icons/jira.svg"         alt="jira"/></a>
