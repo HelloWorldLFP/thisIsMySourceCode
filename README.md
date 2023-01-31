@@ -32,7 +32,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bootstrap.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/c.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cakephp.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/centos.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cmake.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/codeigniter.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/coffeescript.svg" alt=""/></a>
