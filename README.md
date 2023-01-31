@@ -12,11 +12,12 @@
 <br/>
 <p align="center"><a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/></a><a href="https://www.linkedin.com/in/i♡programming"><img height="26px" src="./assets/linkedin.svg" alt="LinkedIn"/></a><a href="https://cutt.ly/pereiraluciano"><img height="26px" src="./assets/whatsapp.svg" alt="whatsapp"/></a></p>
 
+## Last Proyect: **La Dionisia** Wine Store.
+
+
+
 <details open>
-  <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>
- 
-&nbsp;
-  
+  <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>&nbsp;
 <p align="center">      <a href="https://apache.org/">                      <img height="42px" src="./assets/icons/apache.svg"    alt="Apache"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apple.com">                        <img height="42px" src="./assets/icons/apple.svg"     alt="Apple"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/">                  <img height="42px" src="./assets/icons/arduino.svg"   alt="Arduino"/></a>
