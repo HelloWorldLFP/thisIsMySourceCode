@@ -30,7 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/behance.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bitbucket.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/bootstrap.svg" alt=""/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/c.svg" alt=""/></a>
+</p>
+<p align="center">      <a href="#"><img height="42px" src="./assets/icons/c.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cakephp.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/cmake.svg" alt=""/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="42px" src="./assets/icons/codeigniter.svg" alt=""/></a>
