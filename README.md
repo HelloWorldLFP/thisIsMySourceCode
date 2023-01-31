@@ -11,17 +11,10 @@
 </p>
 <br/>
 <p align="center"><a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/></a><a href="https://www.linkedin.com/in/i♡programming"><img height="26px" src="./assets/linkedin.svg" alt="LinkedIn"/></a><a href="https://cutt.ly/pereiraluciano"><img height="26px" src="./assets/whatsapp.svg" alt="whatsapp"/></a></p>
-<details open>
-  <summary><h3>Stats <i>(collapsible)</i></h3></summary><br/>
-  <p align="left">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" />
-    <img width="550px" src="https://github-readme-stats.vercel.app/api?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&hide_border=true" />
-</p>
-</details>
 
 <details open>
   <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>
-  
+ 
 &nbsp;
   
 <p align="center">      <a href="https://apache.org/">                      <img height="42px" src="./assets/icons/apache.svg"    alt="Apache"/></a>
@@ -110,3 +103,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.yiiframework.com/"><img height="42px" src="./assets/icons/yii.svg"          alt="yii"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://framework.zend.com/"><img height="42px" src="./assets/icons/zend.svg"         alt="zend"/></a>
 </p></details>
+
+<details open>
+  <summary><h3>Stats <i>(collapsible)</i></h3></summary><br/>
+  <p align="left">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&layout=default&hide_border=true" alt="my stats language" />
+    <img width="550px" src="https://github-readme-stats.vercel.app/api?username=thisIsMySourceCode&show_icons=true&theme=transparent&locale=en&hide_border=true" />
+</p>
+</details>
