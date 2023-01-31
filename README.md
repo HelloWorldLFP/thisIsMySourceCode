@@ -1,11 +1,11 @@
 <p align="center">
 <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
-</p><br/>
+</p>
 <p align="center">
 <img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
-</p><br/>
+</p><
 <p align="center">
-<img src="./assets/sign.svg" alt="Luciano Pereira Sign Logo"/>
+<img src="./assets/sign.svg" width="100px" alt="Luciano Pereira Sign Logo"/>
 </p><br/>
 
 <p align="center">
