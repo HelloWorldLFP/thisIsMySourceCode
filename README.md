@@ -21,7 +21,7 @@
 </details>
 
 <details open>
-  <summary><h3>Technologies <i>click to (un)fold</i></h3></summary><br/>
+  <summary><h3>Technologies <i>(collapsible)</i></h3></summary><br/>
   
 &nbsp;
   
