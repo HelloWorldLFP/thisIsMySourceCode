@@ -1,5 +1,7 @@
 <p align="center">
 <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
+</p><br/>
+<p align="center">
 <img src="./assets/sign.svg" alt="Luciano Pereira Sign Logo"/>
 </p><br/>
 <p align="center">
