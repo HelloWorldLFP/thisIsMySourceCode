@@ -2,7 +2,7 @@
 <img src="./assets/lucianopereira.svg" alt="Luciano Pereira"/>
 </p>
 <p align="center">
-<img src="./assets/sign.svg" width="200px" alt="Luciano Pereira Sign Logo"/>
+<img src="./assets/sign.svg" width="250px" alt="Luciano Pereira Sign Logo"/>
 </p>
 <p align="center">
 <img src="./assets/resume.svg" height="250px" alt="Luciano Pereira Resume"/>
