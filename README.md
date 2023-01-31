@@ -6,12 +6,7 @@
   </a>
 </p>
 <br/>
-<p align="center">
-  <a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/i♡programming"><img height="26px" src="./assets/linkedin.svg" alt="LinkedIn"/></a>
-  <a href="https://cutt.ly/pereiraluciano"><img height="26px" src="./assets/whatsapp.svg" alt="whatsapp"/></a>
-</p>
+<p align="center"><a href="mailto:fullstackdeveloper@duck.com?subject=I%20saw%20your%20GitHub%20Profilee&body=Hi,%20Luciano%20"><img height="26px" src="./assets/mail.svg" alt="mail"/></a><a href="https://www.linkedin.com/in/i♡programming"><img height="26px" src="./assets/linkedin.svg" alt="LinkedIn"/></a><a href="https://cutt.ly/pereiraluciano"><img height="26px" src="./assets/whatsapp.svg" alt="whatsapp"/></a></p>
 <details>
   <summary><h3>Stats <i>(click to expand)</i></h3></summary><br/>
   <p align="left">
