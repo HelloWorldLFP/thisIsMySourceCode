@@ -21,7 +21,7 @@
 <details>
   <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
 
-| Left-Aligned  | Center Aligned  | Right  | Right  |
+| <a href="#"><img width="32px" src="./assets/icons/apache.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/apple.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/arduino.svg" alt=""/></a>  | <a href="#"><img height="32px" src="./assets/icons/bash.svg" alt=""/></a>  |
 | :-----------: |:---------------:| :----: | :----: |
 | col 3 is      | some wordy text | $1600  | $1600  |
 | col 2 is      | centered        |   $12  |   $12  |
