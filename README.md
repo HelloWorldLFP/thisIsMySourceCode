@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary><h3>@@Technologies@@ <i>(click to expand)</i></h3></summary><br/>
+  <summary><h3>Technologies <i>(click to expand)</i></h3></summary><br/>
   
 &nbsp;
   
