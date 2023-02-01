@@ -14,6 +14,14 @@
 
 ## Last Project: **La Dionisia** Wine Store.
 
+<p>
+<img width="45%" src="./showcase/Landing.PNG">
+<img width="45%" src="./showcase/Home.PNG">
+<img width="45%" src="./showcase/Products.PNG">
+<img width="45%" src="./showcase/Accessibility.PNG">
+</a>
+</p>
+
 🌍 https://la-dionisia-front.vercel.app
 
 🧑🏽‍💻 https://github.com/thisIsMySourceCode/ladionisia-eshop-nextjs
