@@ -14,16 +14,8 @@
 
 ## Last Project: **La Dionisia** Wine Store.
 
-<table>
-  <tr>
-    <td><img src="./showcase/Landing.png"></td>
-    <td><img src="./showcase/Home.png"></td>
-  </tr>
-  <tr>
-    <td><img src="./showcase/Products.png"></td>
-    <td><img src="./showcase/Accessibility.png"></td>
-  </tr>
-</table>
+<p><img src="./showcase/Landing.png" ><img src="./showcase/Home.png"         ></p>
+<p><img src="./showcase/Products.png"><img src="./showcase/Accessibility.png"></p>
 
 🌍 https://la-dionisia-front.vercel.app
 
