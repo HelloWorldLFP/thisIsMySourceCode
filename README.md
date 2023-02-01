@@ -15,10 +15,10 @@
 ## Last Project: **La Dionisia** Wine Store.
 
 <p>
-<img height="292px" src="./showcase/Landing.png">
-<img height="292px" src="./showcase/Home.png">
-<img height="292px" src="./showcase/Products.png">
-<img height="292px" src="./showcase/Accessibility.png">
+<img width="40%" src="./showcase/Landing.png">
+<img width="40%" src="./showcase/Home.png">
+<img width="40%" src="./showcase/Products.png">
+<img width="40%" src="./showcase/Accessibility.png">
 </a>
 </p>
 
