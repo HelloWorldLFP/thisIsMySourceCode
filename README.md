@@ -29,7 +29,7 @@
 
 ## CSS Experiment: **CRT CSS** Top 20 VsCode Extensions
 
-<p align="center"><img src="https://raw.githubusercontent.com/thisIsMySourceCode/top20-vscode-extesions/main/crt.png"></p>
+<p align="center"><img width="40%" src="https://raw.githubusercontent.com/thisIsMySourceCode/top20-vscode-extesions/main/crt.png"></p>
 
 🌍 https://thisismysourcecode.github.io/top20-vscode-extesions
 
